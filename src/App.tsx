@@ -1,7 +1,7 @@
 import "./App.css";
 
-// import { RepoIcon } from "@primer/octicons-v2-react";
 // import { Camera } from "react-feather";
+// import { RepoIcon } from "@primer/octicons-v2-react";
 // import { Button } from "@primer/components";
 // import Button from "@material-ui/core/Button";
 import React from "react";
@@ -23,9 +23,9 @@ function App() {
         >
           Learn React
         </a>
-        {/* <Button /> */}
-        {/* <RepoIcon /> */}
         {/* <Camera /> */}
+        {/* <RepoIcon /> */}
+        {/* <Button /> */}
       </header>
     </div>
   );
