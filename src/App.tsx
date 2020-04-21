@@ -1,7 +1,8 @@
 import "./App.css";
 
-import React from "react";
 // import { RepoIcon } from "@primer/octicons-v2-react";
+// import { Camera } from "react-feather";
+import React from "react";
 import logo from "./logo.svg";
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -21,6 +22,7 @@ function App() {
           Learn React
         </a>
         {/* <RepoIcon /> */}
+        {/* <Camera /> */}
       </header>
     </div>
   );
