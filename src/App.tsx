@@ -1,6 +1,7 @@
 import "./App.css";
 
 import React from "react";
+// import { RepoIcon } from "@primer/octicons-v2-react";
 import logo from "./logo.svg";
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         >
           Learn React
         </a>
+        {/* <RepoIcon /> */}
       </header>
     </div>
   );
